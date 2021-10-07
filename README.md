@@ -9,7 +9,7 @@ In this two tutorials, we will show you two different ways to process the video 
 
 ## List of Content
 
-1. [Build a Video Transcoder and Video Streaming by Using AWS](https://gitlab.com/u9526387/my-project/tree/master/AWS-Video-Streaming/AWS-Video-Transcode)
+1. [Build a Video Transcoder and Video Streaming by Using AWS](https://github.com/redpanjerry/AWS-Video-Streaming-Solution/tree/master/AWS-Video-Transcode)
 
 
 2. [Build a Video Converter and Video Streaming by Using AWS](https://github.com/redpanjerry/AWS-Video-Streaming-Solution/tree/master/AWS-Media-Convert)
